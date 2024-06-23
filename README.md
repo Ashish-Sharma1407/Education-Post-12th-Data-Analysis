@@ -65,7 +65,6 @@ Basic Steps:
 <br>
 <br>
 1.	Application and Enrollment Analysis
-<br>
 •	What is the average number of applications received by colleges?
 <br>
 •	What percentage of applications are accepted on average across all colleges?
