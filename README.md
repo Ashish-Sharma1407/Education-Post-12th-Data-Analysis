@@ -66,38 +66,82 @@ Basic Steps:
 <br>
 
 1.	Application and Enrollment Analysis
+<br>
 •	What is the average number of applications received by colleges?
+<br>
 •	What percentage of applications are accepted on average across all colleges?
+<br>
 •	What is the average enrollment rate (number of students enrolled divided by number of applications accepted)?
+<br>
 •	Which college has the highest number of applications received?
+<br>
+<br>
 2.	Academic Excellence
+<br>
 •	What is the average percentage of new students from the top 10% of their higher secondary class across all colleges?
+<br>
 •	What is the average percentage of new students from the top 25% of their higher secondary class?
+<br>
 •	Is there a correlation between the percentage of students from the top 10% and the top 25% of their higher secondary class?
+<br>
+<br>
 3.	Student Demographics
+<br>
 •	What is the average number of full-time undergraduate students per college?
+<br>
 •	What is the average number of part-time undergraduate students per college?
+<br>
 •	Which college has the highest number of out-of-state students?
+<br>
+<br>
 4.	Cost and Spending
+<br>
 •	What is the average cost of room and board across all colleges?
+<br>
 •	What is the average estimated book cost for a student?
+<br>
 •	What is the average estimated personal spending for a student?
+<br>
 •	How does the instructional expenditure per student vary across colleges?
+<br>
+<br>
 5.	Faculty Qualifications
+<br>
 •	What is the average percentage of faculties with Ph.D.s across all colleges?
+<br>
 •	What is the average percentage of faculties with terminal degrees?
+<br>
 •	Is there a correlation between the percentage of faculties with Ph.D.s and the graduation rate?
+<br>
+<br>
 6.	Student-Faculty Interaction
+<br>
 •	What is the average student/faculty ratio across all colleges?
+<br>
 •	Which college has the lowest student/faculty ratio?
+<br>
 •	Is there a correlation between the student/faculty ratio and the graduation rate?
+<br>
+<br>
 7.	Alumni Engagement
+<br>
 •	What is the average percentage of alumni who donate across all colleges?
+<br>
 •	Is there a correlation between the percentage of alumni who donate and the graduation rate?
+<br>
+<br>
 8.	Graduation Rates
+<br>
 •	What is the average graduation rate across all colleges?
+<br>
 •	Which college has the highest graduation rate?
+<br>
 •	Is there a correlation between the instructional expenditure per student and the graduation rate?
+<br>
+<br>
 9.	Overall Insights
+<br>
 •	Which factors (applications, acceptance rate, enrollment, academic excellence, costs, faculty qualifications, student/faculty ratio, alumni donations, expenditures) are most strongly associated with higher graduation rates?
+<br>
 •	What recommendations can be made to colleges to improve their graduation rates based on the data analysis?
+<br>
