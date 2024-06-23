@@ -140,7 +140,5 @@ Basic Steps:
 <br>
 9.	Overall Insights
 <br>
-•	Which factors (applications, acceptance rate, enrollment, academic excellence, costs, faculty qualifications, student/faculty ratio, alumni donations, expenditures) are most strongly associated with higher graduation rates?
-<br>
 •	What recommendations can be made to colleges to improve their graduation rates based on the data analysis?
 <br>
