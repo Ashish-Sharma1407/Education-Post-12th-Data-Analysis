@@ -64,7 +64,6 @@ Basic Steps:
 10-	Do the necessary data cleaning steps like dropping duplicates, unnecessary columns, null value imputation, outliers treatment etc.
 <br>
 <br>
-
 1.	Application and Enrollment Analysis
 <br>
 •	What is the average number of applications received by colleges?
